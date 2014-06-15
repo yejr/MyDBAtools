@@ -1,4 +1,8 @@
 MyDBAtools
 ==========
 
-MySQL DBA tools, include benchmark scripts, server performance monitor scripts, hardware monitor scripts and so on.
+MySQL DBA tools, include benchmark scripts, linux server performance monitor scripts, hardware monitor scripts and so on.
+
+1. MySQL benchmark scripts
+2. Hardware monitor scripts
+3. Linux server performance monitor scripts
